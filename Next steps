@@ -1,0 +1,9 @@
+- Allow for flexible grid sizes (4x4, 9x9, 16x16)
+
+- Add buttons and rules for special sudoku game rules (ex: queen rule, knight rule)
+
+- Add a feature so users can view multiple solutions if more than 1 exists. Scroll bar to scroll through all existing solutions
+
+- Add a checkbox  "I acknowlege cheating is immoral" which user must check before getting solutions XD
+
+- Create Sudoku Cheater Premium, set up a paywall. Just kidding XD
