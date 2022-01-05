@@ -3,7 +3,7 @@ Solve any sudoku puzzle in miliseconds
 
 Uses a recursive backtracking algorithm to efficently look for valid solutions to a sudoku puzzle. 
 
-Comes with a custom designed logo
+Comes with a custom designed logo.
 
 ![SC](https://user-images.githubusercontent.com/90351737/144721735-51c7d664-7d09-415f-8624-c31ca820a576.png)
 
